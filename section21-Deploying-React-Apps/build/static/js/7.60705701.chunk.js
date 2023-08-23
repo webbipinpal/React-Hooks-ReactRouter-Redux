@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-complete-guide"]=this["webpackJsonpreact-complete-guide"]||[]).push([[7],{55:function(e,t,c){"use strict";c.r(t);var s=c(1);t.default=function(){return Object(s.jsxs)("section",{className:"centered",children:[Object(s.jsx)("img",{style:{width:"100%"},src:"/notfoundpage.png"})," ",Object(s.jsx)("br",{})," ",Object(s.jsx)("br",{}),Object(s.jsx)("h3",{style:{width:"100%",display:"block"},children:"Page Not Found 404!"})]})}}}]);
+//# sourceMappingURL=7.60705701.chunk.js.map

@@ -1,0 +1,20 @@
+.users {
+  border: 1px solid #ccc;
+    background-color: #fff;
+    max-width: 50%;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.users ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.users li {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
